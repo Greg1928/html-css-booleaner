@@ -9,3 +9,21 @@
     width: 220px;
     padding-top: 90px;
 }
+.titolo{
+    font-size: 35px;
+    margin-bottom: -33px;
+}
+
+#autori{
+    color: grey;
+    font-size: 25px;
+}
+#nomeautori{
+    color: #00d0ff;
+    font-size: 25px;
+    font-weight: bold;
+}
+#data{
+    margin-top: 0px;
+    color: grey;
+}
