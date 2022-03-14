@@ -1,0 +1,11 @@
+.fascia{
+    background-image: url("../img/pattern.png");
+    background-color:#009aff;
+    height: 160px;
+    
+}
+
+.logo{
+    width: 220px;
+    padding-top: 90px;
+}
