@@ -42,3 +42,27 @@
 li{
     font-size: 20px;
 }
+.tabella{
+    border-spacing: 0px;
+    margin-top: 50px;
+    width: 1890px;
+    
+    
+}
+.intabella{
+   background-color: #009aff;
+   
+}
+
+th{
+    font-size: 20px;
+    color: white;
+    width: 483px;
+    text-align: left;
+}
+td{
+    font-size: 20px;
+}
+.colorato{
+    background-color: #00c9ff57;
+}
