@@ -17,6 +17,7 @@
 #autori{
     color: grey;
     font-size: 25px;
+    font-weight: bold;
 }
 #nomeautori{
     color: #00d0ff;
@@ -68,4 +69,23 @@ td{
 }
 #text{
     font-size: 20px;
+}
+
+.img1{
+    background-image: url("../img/monitor.jpg");
+    width: 312px;
+    height: 208px;
+}
+.img2{
+    background-image: url("../img/graph.jpg");
+    width: 311px;
+    height: 207px;
+}
+
+#bianco{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+    
 }
